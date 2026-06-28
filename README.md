@@ -191,5 +191,4 @@ This project is part of my self-initiated BI work — exploring end-to-end dashb
 
 ## 📄 Dataset Source
 
-Dataset: [plotly/datasets — GitHub](https://github.com/plotly/datasets)  
-License: Open for learning and portfolio use.
+Dataset: [supermarket_Sales.csv](https://github.com/nikitagaikwad0111/Supermarket-Sales-Dashboard/blob/main/data/supermarket_sales.csv) — sourced from [plotly/datasets](https://github.com/plotly/datasets)
