@@ -158,7 +158,7 @@ supermarket-sales-dashboard/
 
 ## 🚀 How to View the Dashboard
 
-1. Open the published dashboard: *[Add your Looker Studio link here]*
+1. Open the published dashboard: https://datastudio.google.com/reporting/99852c79-e0b5-4313-b6eb-0f44c0eaee93
 2. Use the **Branch**, **City**, and **Product Line** dropdowns to filter by segment
 3. The **date range** defaults to Jan 1 – Mar 31, 2019 (full dataset period)
 4. Navigate between the 3 pages using the page tabs at the bottom of the report
@@ -191,5 +191,5 @@ This project is part of my self-initiated BI work — exploring end-to-end dashb
 
 ## 📄 Dataset Source
 
-Dataset: [supermarket_Sales.csv](https://github.com/nikitagaikwad0111/supermarket-sales-dashboard/blob/main/data/supermarket_Sales.csv) 
-The dataset is included in this repository under the `data/` folder for easy access.
+Dataset: [plotly/datasets — GitHub](https://github.com/plotly/datasets)  
+License: Open for learning and portfolio use.
