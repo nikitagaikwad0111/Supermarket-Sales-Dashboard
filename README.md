@@ -191,5 +191,5 @@ This project is part of my self-initiated BI work — exploring end-to-end dashb
 
 ## 📄 Dataset Source
 
-Dataset: [supermarket_Sales.csv](https://github.com/nikitagaikwad0111/supermarket-sales-dashboard/blob/main/data/supermarket_Sales.csv)  
+Dataset: [supermarket_Sales.csv](https://github.com/nikitagaikwad0111/supermarket-sales-dashboard/blob/main/data/supermarket_Sales.csv) 
 The dataset is included in this repository under the `data/` folder for easy access.
