@@ -72,7 +72,7 @@ This is a **3-page Looker Studio dashboard** that transforms raw supermarket sal
 
 ## 🗂️ Dataset Details
 
-**File:** `supermarket_Sales.csv`  
+**File:** `supermarket_sales.csv`  
 **Rows:** 1,000 | **Columns:** 17 | **Missing values:** None
 
 | Column | Type | Description |
@@ -144,12 +144,12 @@ Hour of Day = CAST(REGEXP_EXTRACT(Time, r"^(\d+):") AS NUMBER)
 supermarket-sales-dashboard/
 │
 ├── data/
-│   └── supermarket_Sales.csv         # Raw dataset (1,000 rows, 17 columns)
+│   └── supermarket_sales.csv         # Raw dataset (1,000 rows, 17 columns)
 │
 ├── screenshots/
-│   ├── page1_executive_sales.png
-│   ├── page2_product_operations.png
-│   └── page3_customer_payment.png
+│   ├── Page1_executive_sales.png
+│   ├── Page2_product_operations.png
+│   └── Page3_customer_payment.png
 │
 └── README.md
 ```
